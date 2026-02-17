@@ -1,194 +1,368 @@
-## Hi there 👋
-[README.md](https://github.com/user-attachments/files/25372639/README.md)<div align="center">
+[README (1).md](https://github.com/user-attachments/files/25372766/README.1.md)
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--              AHMED ELSAYED — GITHUB PROFILE README             -->
+<!-- ═══════════════════════════════════════════════════════════ -->
 
-<!-- Animated header banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0a3d62,100:00d4ff&height=200&section=header&text=Ahmed%20Elsayed&fontSize=60&fontColor=00d4ff&fontAlignY=38&desc=AI%20%26%20Machine%20Learning%20Engineer&descAlignY=58&descSize=20&descColor=8b949e&animation=fadeIn" />
+<div align="center">
 
-<!-- Typing animation -->
+<!-- ANIMATED HEADER -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,30:001a2e,60:003366,100:00d4ff&height=220&section=header&text=AHMED%20ELSAYED&fontSize=72&fontColor=ffffff&fontAlignY=40&desc=⚡%20AI%20%26%20Machine%20Learning%20Engineer%20⚡&descAlignY=62&descSize=22&descColor=00d4ff&stroke=00d4ff&strokeWidth=2&animation=fadeIn" />
+
+</div>
+
+<!-- TYPING ANIMATION -->
+<div align="center">
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=700&lines=Building+Production-Grade+RAG+Systems+%F0%9F%A4%96;LLM+Orchestration+%26+Semantic+Search+Expert;FastAPI+%7C+Docker+%7C+Vector+Databases;Published+ML+Researcher+%F0%9F%93%84;From+Egypt+%F0%9F%87%AA%F0%9F%87%AC+to+the+World" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=3000&pause=800&color=00D4FF&center=true&vCenter=true&multiline=false&repeat=true&width=750&height=50&lines=🤖+Building+Production-Grade+RAG+Systems;🔍+LLM+Orchestration+%26+Vector+Search+Expert;🚀+FastAPI+•+Docker+•+Qdrant+•+PGVector;📄+Published+ML+Researcher+%7C+R²+%3D+0.930;⚡+Turning+Research+Into+Production+APIs" alt="Typing SVG" />
 </a>
+</div>
 
 <br/>
 
-<!-- Profile badges -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-ahmed--elsayed16112002-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ahmed-elsayed16112002)
-[![GitHub](https://img.shields.io/badge/GitHub-ahmed--elsayed1611-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ahmed-elsayed1611)
-[![Email](https://img.shields.io/badge/Email-elmo7andes%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:elmo7andes@gmail.com)
-[![Location](https://img.shields.io/badge/Location-Port%20Said%2C%20Egypt-00d4ff?style=for-the-badge&logo=googlemaps&logoColor=white)](https://maps.google.com/?q=Port+Said,+Egypt)
+<!-- SOCIAL BADGES -->
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/-%20ahmed--elsayed16112002-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ahmed-elsayed16112002)
+[![GitHub](https://img.shields.io/badge/-%20ahmed--elsayed1611-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ahmed-elsayed1611)
+[![Gmail](https://img.shields.io/badge/-elmo7andes%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:elmo7andes@gmail.com)
+[![Location](https://img.shields.io/badge/📍-Port%20Said%2C%20Egypt-00d4ff?style=for-the-badge)](https://maps.google.com/?q=Port+Said,Egypt)
+
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=ahmed-elsayed1611&color=00d4ff&style=for-the-badge&label=PROFILE+VIEWS)
+[![GitHub followers](https://img.shields.io/github/followers/ahmed-elsayed1611?style=for-the-badge&color=00d4ff&labelColor=0d1117&logo=github)](https://github.com/ahmed-elsayed1611)
 
 </div>
 
 ---
 
-## `> whoami`
+<!-- ABOUT ME — TERMINAL STYLE -->
+<div align="center">
+<h2>⚡ <code>~/whoami</code></h2>
+</div>
 
 ```python
+#!/usr/bin/env python3
+# ─────────────────────────────────────────────────────────────────
+#  Ahmed Elsayed  |  AI & ML Engineer  |  Port Said, Egypt 🇪🇬
+# ─────────────────────────────────────────────────────────────────
+
 class AhmedElsayed:
-    role        = "AI & Machine Learning Engineer"
-    location    = "Port Said, Egypt 🇪🇬"
-    focus       = ["RAG Systems", "LLM Orchestration", "Production ML"]
-    currently   = "Building enterprise-grade AI pipelines"
-    published   = True  # Port Said Engineering Research Journal, 2025
-    fun_fact    = "I turn research notebooks into production-ready APIs 🚀"
-```
+    def __init__(self):
+        self.name        = "Ahmed Elsayed"
+        self.role        = "AI & Machine Learning Engineer"
+        self.location    = "Port Said, Egypt 🇪🇬"
+        self.education   = "B.Tech Information Systems — Port Said University (2025)"
+        self.languages   = {"Arabic": "Native 🗣️", "English": "B2 Upper-Intermediate 💬"}
 
-> 🎯 **Graduate AI & ML Engineer** specializing in production-grade **Retrieval-Augmented Generation (RAG)** and **LLM orchestration**. I bridge the gap between cutting-edge ML research and scalable, containerized applications.
+    @property
+    def specializations(self):
+        return [
+            "🔗 Retrieval-Augmented Generation (RAG)",
+            "🧠 LLM Orchestration & Prompt Engineering",
+            "⚙️  Production ML Pipelines & MLOps",
+            "🔍 Semantic Search & Vector Databases",
+            "🐳 Containerized AI Applications (Docker)",
+        ]
+
+    @property
+    def currently_working_on(self):
+        return "Enterprise-grade RAG systems with hybrid vector DBs 🚀"
+
+    @property
+    def fun_fact(self):
+        return "I turn messy Jupyter notebooks into bulletproof production APIs ⚡"
+
+    def __repr__(self):
+        return f"<Engineer: {self.name} | Open to opportunities 💼>"
+
+me = AhmedElsayed()
+print(me)
+# >>> <Engineer: Ahmed Elsayed | Open to opportunities 💼>
+```
 
 ---
 
-## `> tech_stack --all`
+<!-- GITHUB STATS — DYNAMIC -->
+<div align="center">
+<h2>📊 <code>~/github --stats</code></h2>
 
+<img height="195" src="https://github-readme-stats.vercel.app/api?username=ahmed-elsayed1611&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&border_color=00d4ff&title_color=00d4ff&icon_color=00d4ff&text_color=c9d1d9&bg_color=0d1117&ring_color=00d4ff&hide_border=false&rank_icon=github" />
+<img height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmed-elsayed1611&layout=compact&langs_count=8&theme=github_dark&border_color=00d4ff&title_color=00d4ff&text_color=c9d1d9&bg_color=0d1117&hide_border=false" />
+
+<br/>
+
+<img width="68%" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmed-elsayed1611&theme=github-dark-blue&background=0d1117&border=00d4ff&ring=00d4ff&fire=ff6b35&currStreakNum=ffffff&sideNums=00d4ff&currStreakLabel=00d4ff&sideLabels=8b949e&dates=8b949e" />
+
+<br/><br/>
+
+<!-- ACTIVITY GRAPH -->
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=ahmed-elsayed1611&bg_color=0d1117&color=00d4ff&line=00d4ff&point=ffffff&area=true&area_color=003366&hide_border=false&border_color=00d4ff&title_color=00d4ff&radius=6" />
+
+</div>
+
+---
+
+<!-- TECH STACK — ORGANIZED & COMPREHENSIVE -->
+<div align="center">
+<h2>🛠️ <code>~/tech-stack --all</code></h2>
+</div>
+
+<details open>
+<summary><b>🤖 AI · NLP · LLMs</b></summary>
+<br/>
 <div align="center">
 
-### 🤖 AI & NLP
 ![Python](https://img.shields.io/badge/Python-Expert-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-Production_Grade-00d4ff?style=for-the-badge&logo=chainlink&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/HuggingFace-Transformers-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![LangChain](https://img.shields.io/badge/RAG-Pipelines-00d4ff?style=for-the-badge&logo=chainlink&logoColor=white)
-![Ollama](https://img.shields.io/badge/Ollama-Local%20LLM-ffffff?style=for-the-badge&logo=ollama&logoColor=black)
-![BERT](https://img.shields.io/badge/BERT-Transformers-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![BERT](https://img.shields.io/badge/BERT-NLP_Models-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-Local_LLM-white?style=for-the-badge&logo=ollama&logoColor=black)
+![LLM Factory](https://img.shields.io/badge/LLM_Factory-Orchestration-6e40c9?style=for-the-badge&logo=openai&logoColor=white)
 ![spaCy](https://img.shields.io/badge/spaCy-NLP-09A3D5?style=for-the-badge&logo=spacy&logoColor=white)
+![NLTK](https://img.shields.io/badge/NLTK-Text_Processing-00897B?style=for-the-badge&logo=python&logoColor=white)
 
-### ⚙️ Backend & DevOps
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Celery](https://img.shields.io/badge/Celery-Task%20Queues-37814A?style=for-the-badge&logo=celery&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![REST API](https://img.shields.io/badge/RESTful-APIs-FF6B35?style=for-the-badge&logo=fastapi&logoColor=white)
+</div>
+</details>
 
-### 🗄️ Databases & Vector Search
+<details open>
+<summary><b>⚙️ Backend · DevOps · Infrastructure</b></summary>
+<br/>
+<div align="center">
+
+![FastAPI](https://img.shields.io/badge/FastAPI-Nested_Routes-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-Containerization-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Celery](https://img.shields.io/badge/Celery-Async_Tasks-37814A?style=for-the-badge&logo=celery&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-Task_Broker-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Alembic](https://img.shields.io/badge/Alembic-DB_Migrations-6e40c9?style=for-the-badge&logo=alembic&logoColor=white)
+![REST API](https://img.shields.io/badge/RESTful-API_Design-FF6B35?style=for-the-badge&logo=fastapi&logoColor=white)
+![Git](https://img.shields.io/badge/Git-Version_Control-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+</div>
+</details>
+
+<details open>
+<summary><b>🗄️ Databases · Vector Search</b></summary>
+<br/>
+<div align="center">
+
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-PGVector-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Qdrant](https://img.shields.io/badge/Qdrant-Vector%20DB-DC244C?style=for-the-badge&logo=qdrant&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-Motor%20Async-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-Alembic-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white)
+![Qdrant](https://img.shields.io/badge/Qdrant-Vector_DB-DC244C?style=for-the-badge&logo=qdrant&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-Motor_Async-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-ORM-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white)
+![Semantic Search](https://img.shields.io/badge/Semantic-Search-00d4ff?style=for-the-badge&logo=elasticsearch&logoColor=white)
 
-### 📊 ML & Data Science
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+</div>
+</details>
+
+<details open>
+<summary><b>📊 ML · Data Science · Analytics</b></summary>
+<br/>
+<div align="center">
+
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-ML_Models-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-Deep_Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-Neural_Nets-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-Gradient_Boosting-006400?style=for-the-badge&logo=xgboost&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-Data_Wrangling-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-Scientific_Computing-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-Visualization-11557c?style=for-the-badge&logo=matplotlib&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-Dashboards-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+
+</div>
+</details>
+
+---
+
+<!-- FEATURED PROJECT -->
+<div align="center">
+<h2>🚀 <code>~/projects --featured</code></h2>
+</div>
+
+<div align="center">
+
+```
+╔══════════════════════════════════════════════════════════════════════════════╗
+║  🏗️  ENTERPRISE-GRADE mini-RAG ARCHITECTURE                                 ║
+║  ─────────────────────────────────────────────────────────────────────────  ║
+║                                                                              ║
+║   FastAPI ──► Celery + Redis ──► Vector DB Factory ──► Ollama LLM           ║
+║      │              │                    │                    │              ║
+║      │         [Async Tasks]      ┌──────┴──────┐       [Local LLM]         ║
+║      │         [Doc Processing]   │             │       [Privacy-First]      ║
+║      │         [Embeddings Gen]  Qdrant      PGVector                       ║
+║      │                            │             │                            ║
+║      └──────► PostgreSQL ◄────────┴─────────────┘                           ║
+║               SQLAlchemy + Alembic                                           ║
+║               MongoDB (Motor Async)                                          ║
+║               Docker 🐳 (Full-Stack Containerization)                       ║
+║                                                                              ║
+║  ✅ Async task queues     ✅ Hybrid vector search    ✅ Modular chunking     ║
+║  ✅ Secured nested routes ✅ Privacy-compliant LLM   ✅ Enterprise-scale     ║
+╚══════════════════════════════════════════════════════════════════════════════╝
+```
 
 </div>
 
 ---
 
-## `> ls ./projects`
-
+<!-- PUBLISHED RESEARCH -->
 <div align="center">
-
-| 🚀 Project | 🛠️ Stack | 📌 Highlights |
-|---|---|---|
-| **Enterprise-Grade mini-RAG** | FastAPI · Qdrant · PGVector · Celery · Docker · Ollama | End-to-end RAG pipeline · Async task queues · Hybrid vector DB · Privacy-compliant LLM |
-
+<h2>📄 <code>~/publications</code></h2>
 </div>
 
-### 🏗️ Enterprise-Grade mini-RAG Architecture
-> *Transitioning ML research into production-ready AI systems*
-
-```
-📦 mini-RAG
- ┣ 🔄 Async document processing via Celery + Redis
- ┣ 🔍 Hybrid vector search: Qdrant + PGVector Factory
- ┣ 🗄️ Dual DB: PostgreSQL (SQLAlchemy/Alembic) + MongoDB (Motor)
- ┣ 🤖 Local LLM inference via Ollama (privacy-compliant)
- ┣ 🌐 Secured nested FastAPI routes
- ┗ 🐳 Full-stack Docker containerization
-```
-
----
-
-## `> cat publications.txt`
-
 <div align="center">
 
+> 📰 **Port Said Engineering Research Journal** · Volume 29, No. 4 · 2025
+
 ```
-╔══════════════════════════════════════════════════════════════════════╗
-║  📄 PUBLISHED RESEARCH — 2025                                        ║
-║                                                                      ║
-║  "Evaluating Student Performance Prediction Using ML Models"         ║
-║   Port Said Engineering Research Journal, Vol. 29, No. 4            ║
-║   pp: 116–143 | DOI: 10.21608/PSERJ.2025.387085.1412               ║
-║                                                                      ║
-║  ✅ R² Score: 0.930  |  ✅ Classification Accuracy: 89.4%           ║
-║  🔬 Models: XGBoost · Random Forest · SVR · SVM · Stacking          ║
-║  🔭 Clustering: K-Means · GMM · DBSCAN + PCA/UMAP                   ║
-╚══════════════════════════════════════════════════════════════════════╝
+┌─────────────────────────────────────────────────────────────────────────┐
+│   "Evaluating Student Performance Prediction Using Machine Learning"     │
+│    DOI: 10.21608/PSERJ.2025.387085.1412                                 │
+├─────────────────────────────────────────────────────────────────────────┤
+│                                                                         │
+│  📈 REGRESSION           →  R² Score: 0.930  (XGBoost · RF · SVR)      │
+│  🎯 CLASSIFICATION       →  Accuracy: 89.4%  (SVM · GBM · XGBoost)     │
+│  🔭 CLUSTERING           →  K-Means · GMM · DBSCAN                     │
+│  🔬 DIM. REDUCTION       →  PCA · UMAP                                 │
+│                                                                         │
+└─────────────────────────────────────────────────────────────────────────┘
 ```
 
 </div>
 
 ---
 
-## `> github stats`
-
+<!-- EXPERIENCE TIMELINE -->
 <div align="center">
+<h2>💼 <code>~/experience --timeline</code></h2>
+</div>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ahmed-elsayed1611&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&border_color=00d4ff&title_color=00d4ff&icon_color=00d4ff"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmed-elsayed1611&layout=compact&langs_count=8&theme=github_dark&border_color=00d4ff&title_color=00d4ff"/>
+```
+2024 ─────────────────────────────────────────────────────────────── 2025
 
-<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmed-elsayed1611&theme=github-dark-blue&border=00d4ff&ring=00d4ff&fire=FF6B35&currStreakLabel=00d4ff"/>
+  🔧 Technical Support Rep          🎯 Technical Lead          📚 GDSC
+     AT&T                              GDG                        Organizing Team
+     ─────────────                     ──────────────             ───────────────
+     • 99.9% uptime SLA                • Led AI Hackathon          • 100+ students
+     • Enterprise networks             • 50+ participants          • Career roadmaps
+     • Cross-team collab               • +30% engagement           • +40% attendance
+                                       • NLP/AI Workshops          • Python for DS
+```
+
+---
+
+<!-- CERTIFICATIONS -->
+<div align="center">
+<h2>🏆 <code>~/certifications</code></h2>
+
+[![DeepLearning.AI](https://img.shields.io/badge/Deep_Learning_%26_NLP-DeepLearning.AI-FF6F00?style=for-the-badge&logo=coursera&logoColor=white)](https://www.coursera.org)
+[![Stanford](https://img.shields.io/badge/Machine_Learning-Stanford_%2F_Coursera-8C1515?style=for-the-badge&logo=coursera&logoColor=white)](https://www.coursera.org)
+[![DataCamp](https://img.shields.io/badge/Data_Manipulation_in_SQL-DataCamp-03EF62?style=for-the-badge&logo=datacamp&logoColor=black)](https://www.datacamp.com)
 
 </div>
 
 ---
 
-## `> experience --highlight`
+<!-- CONTRIBUTION SNAKE ANIMATION -->
+<div align="center">
+<h2>🐍 <code>~/contributions</code></h2>
 
-**🔧 Technical Support Representative @ AT&T**
-> Ensured 99.9% uptime for enterprise-grade network infrastructure · Bridged technical & non-technical stakeholders
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ahmed-elsayed1611/ahmed-elsayed1611/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ahmed-elsayed1611/ahmed-elsayed1611/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/ahmed-elsayed1611/ahmed-elsayed1611/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+</picture>
 
-**🎯 Technical Lead @ Google Developer Group (GDG)**
-> Orchestrated AI hackathon for 50+ participants · 30% increase in community engagement · NLP & AI workshops
-
-**📚 Organizing Team @ Google Developer Student Clubs (GDSC)**
-> Guided 100+ students through technical career roadmaps · 40% increase in event attendance · Python for Data Science workshops
-
----
-
-## `> certifications`
-
-```bash
-✅ Deep Learning & NLP Specializations   — DeepLearning.AI
-✅ Machine Learning Specialization       — Stanford University / Coursera  
-✅ Data Manipulation in SQL              — DataCamp
-```
+</div>
 
 ---
 
-## `> contact --open`
-
+<!-- QUOTE -->
 <div align="center">
 
-| Platform | Link |
-|---|---|
-| 📧 **Email** | [elmo7andes@gmail.com](mailto:elmo7andes@gmail.com) |
-| 💼 **LinkedIn** | [ahmed-elsayed16112002](https://linkedin.com/in/ahmed-elsayed16112002) |
-| 🐙 **GitHub** | [ahmed-elsayed1611](https://github.com/ahmed-elsayed1611) |
+> *"The goal is to turn data into information, and information into insight."*
+
+</div>
+
+---
+
+<!-- CONNECT -->
+<div align="center">
+<h2>📡 <code>~/connect --open-to-work</code></h2>
+
+<table>
+<tr>
+<td align="center" width="200">
+
+**📧 Email**<br/>
+[elmo7andes@gmail.com](mailto:elmo7andes@gmail.com)
+
+</td>
+<td align="center" width="200">
+
+**💼 LinkedIn**<br/>
+[ahmed-elsayed16112002](https://linkedin.com/in/ahmed-elsayed16112002)
+
+</td>
+<td align="center" width="200">
+
+**🐙 GitHub**<br/>
+[ahmed-elsayed1611](https://github.com/ahmed-elsayed1611)
+
+</td>
+<td align="center" width="200">
+
+**📝 Bayt.com**<br/>
+[View Profile](https://people.bayt.com/65249236)
+
+</td>
+</tr>
+</table>
 
 <br/>
 
-![Visitor Count](https://komarev.com/ghpvc/?username=ahmed-elsayed1611&color=00d4ff&style=for-the-badge&label=PROFILE+VIEWS)
+```
+╔══════════════════════════════════════════════════════╗
+║   💼 Open to: AI Engineer · MLOps · Backend Roles    ║
+║   🌍 Available: Remote · Relocate · On-site (Egypt)  ║
+║   ⚡ Let's build something extraordinary together!   ║
+╚══════════════════════════════════════════════════════╝
+```
 
-<br/>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4ff,50:0a3d62,100:0d1117&height=120&section=footer&animation=fadeIn"/>
+<!-- FOOTER WAVE -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4ff,40:003366,100:000000&height=130&section=footer&animation=fadeIn" />
 
 </div>
 
+<!-- ══════════════════ 🐍 SNAKE SETUP INSTRUCTIONS ══════════════════
+  To enable the contribution snake animation above:
 
-<!--
-**ahmed-elsayed1611/ahmed-elsayed1611** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  1. Go to: github.com/ahmed-elsayed1611/ahmed-elsayed1611
+  2. Click Actions → New Workflow → "set up a workflow yourself"
+  3. Name it: snake.yml and paste the following:
 
-Here are some ideas to get you started:
+  name: Generate Snake
+  on:
+    schedule:
+      - cron: "0 0 * * *"
+    workflow_dispatch:
+  jobs:
+    generate:
+      runs-on: ubuntu-latest
+      steps:
+        - uses: Platane/snk/svg-only@v3
+          with:
+            github_user_token: ${{ secrets.GITHUB_TOKEN }}
+            outputs: |
+              dist/github-contribution-grid-snake.svg
+              dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+        - uses: crazy-max/ghaction-github-pages@v3.1.0
+          with:
+            target_branch: output
+            build_dir: dist
+          env:
+            GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  4. Run the workflow once manually — done! 🎉
+════════════════════════════════════════════════════════════════════ -->
