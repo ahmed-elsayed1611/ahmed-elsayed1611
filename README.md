@@ -13,7 +13,6 @@
 <!-- TYPING ANIMATION -->
 <div align="center">
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=3000&pause=800&color=00D4FF&center=true&vCenter=true&multiline=false&repeat=true&width=750&height=50&lines=🤖+Building+Production-Grade+RAG+Systems;🔍+LLM+Orchestration+%26+Vector+Search+Expert;🚀+FastAPI+•+Docker+•+Qdrant+•+PGVector;📄+Published+ML+Researcher+%7C+R²+%3D+0.930;⚡+Turning+Research+Into+Production+APIs" alt="Typing SVG" />
 </a>
 </div>
 
