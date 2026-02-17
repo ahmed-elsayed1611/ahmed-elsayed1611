@@ -6,7 +6,6 @@
 <div align="center">
 
 <!-- ANIMATED HEADER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,30:001a2e,60:003366,100:00d4ff&height=220&section=header&text=AHMED%20ELSAYED&fontSize=72&fontColor=ffffff&fontAlignY=40&desc=⚡%20AI%20%26%20Machine%20Learning%20Engineer%20⚡&descAlignY=62&descSize=22&descColor=00d4ff&stroke=00d4ff&strokeWidth=2&animation=fadeIn" />
 
 </div>
 
