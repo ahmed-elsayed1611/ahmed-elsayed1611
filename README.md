@@ -1,4 +1,3 @@
-[README (1).md](https://github.com/user-attachments/files/25372766/README.1.md)
 <!-- ═══════════════════════════════════════════════════════════ -->
 <!--              AHMED ELSAYED — GITHUB PROFILE README             -->
 <!-- ═══════════════════════════════════════════════════════════ -->
